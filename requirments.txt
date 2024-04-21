@@ -1,0 +1,6 @@
+chainlit
+langchain
+pypdf
+python-dotenv
+
+-e .
