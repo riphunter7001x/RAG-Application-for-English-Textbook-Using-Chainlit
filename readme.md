@@ -24,3 +24,7 @@ The codebase is organized into several modules, each serving a distinct purpose 
    - This module offers a user-friendly interface using ChainLit, a library for building conversational AI applications.
    - ChainLit provides tools for creating chat interfaces, handling user input, and generating responses using RAG models.
 
+## Model Architecture
+
+![Model Architecture](model_architecture.jpg)
+
